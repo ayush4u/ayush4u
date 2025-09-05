@@ -30,9 +30,6 @@ I'm Ayush, a passionate developer and researcher focused on cutting-edge technol
 ### RPA & Automation
 ![UiPath](https://img.shields.io/badge/UiPath-00B4E5?style=for-the-badge&logo=uipath&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4u&show_icons=true&theme=radical)
 
 ## 🔥 Current Projects
 
